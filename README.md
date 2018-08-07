@@ -1,2 +1,3 @@
-# TBMS
-Software created for tanker businesses in India.
+# Tanker Business Management System
+
+File management software created for the logistics industry.
